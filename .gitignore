@@ -1,0 +1,9 @@
+node_modules/
+.next/
+__pycache__/
+*.pyc
+.env
+.env.local
+*.db
+apps/api/storage/
+.pytest_cache/
